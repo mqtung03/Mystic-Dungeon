@@ -21,8 +21,14 @@ Người chơi vào vai **Xuan**, một nhà thám hiểm trẻ tuổi, vô tìn
 Mang càng nhiều **kho báu** ra khỏi hầm ngục càng tốt và giúp **Xuan** thoát khỏi nguy hiểm.
 
 ## Một số hình ảnh của game:
+-Screenshot 1
 ![screenshot](Assets/Picture/screenshot1.png)
+
+-Screenshot 2
 ![screenshot](Assets/Picture/screenshot2.png)
+
+-Screenshot 3
 ![screenshot](Assets/Picture/screenshot3.png)
+
 
 
